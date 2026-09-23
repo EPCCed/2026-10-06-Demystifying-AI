@@ -1,6 +1,6 @@
 # 2026-09-06-Demystifying-AI
-This repository contains materials for the Pilot-UKAIFA in-person course, Demystifying AI
-Edinburgh, Friday 21st August, 2026
+This repository contains materials for the in-person course, Demystifying AI
+Ghent on 6th and 7th October, 2026
 
 ## Course Materials
 
