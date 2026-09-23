@@ -19,7 +19,7 @@ Choose "Data science environment" and click `Start`.
 Open a blank Python notebook and type
 
 ```
-!git clone https://github.com/EPCCed/2026-08-21-Demystifying-AI
+!git clone https://github.com/EPCCed/2026-09-06-Demystifying-AI
 ```
 That will copy all of the files from this repository into your workspace on the EIDF Notebook Service.
 
