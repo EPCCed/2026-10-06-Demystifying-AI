@@ -1,5 +1,5 @@
 # 2026-10-06-Demystifying-AI
-This repository contains materials for the in-person course, Demystifying AI
+This repository contains materials for the in-person course, Demystifying AI, delivered in
 Ghent on 6th and 7th October, 2026
 
 ## Course Materials
