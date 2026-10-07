@@ -43,8 +43,7 @@ That will copy all of the files from this repository into your workspace on the 
 
 
 
-This course was created by Adam Carter, EPCC, The University of Edinburgh as part of the Pilot-UKAIFA project
-
+This course was created by Adam Carter, EPCC, The University of Edinburgh. 
 
 ![pilot-img.png](pilot-img.png)
 
